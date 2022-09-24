@@ -15,7 +15,9 @@ Model parameter and inference speed
 ## Result **Visualization**
 
 Object detection    Semantic Segmentation    Keypoint Estimation
-<a href="url"><img src="[http://url.to/image.png](https://github.com/Jumponthemoon/Unified_Robotic_perception/blob/main/result/det1.png)" align="left" height="48" width="48" ></a>
+
+<img src="https://github.com/Jumponthemoon/Unified_Robotic_perception/blob/main/result/point1.png" width="200" />
+
 
 
 ![image](https://github.com/Jumponthemoon/Unified_Robotic_perception/blob/main/result/point1.png)
