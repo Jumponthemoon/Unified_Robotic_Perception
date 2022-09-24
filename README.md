@@ -4,7 +4,7 @@ The unified autonomous robotics perception framework is an anchor-free multi-tas
 
 ### Model Architecture
 
-![image](https://github.com/Jumponthemoon/Unified_Robotic_perception/blob/main/Model%20architecture.png)
+![image](https://github.com/Jumponthemoon/Unified_Robotic_perception/blob/main/result/Model%20architecture.png)
 
 Model parameter and inference speed
 
