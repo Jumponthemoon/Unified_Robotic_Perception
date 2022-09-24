@@ -1,6 +1,6 @@
 # Monocular Unified Autonomous Robotics Perception Framework
 
-The unified autonomous robotics perception framework is an anchor-free multi-task network that can jointly handle vision perception tasks such as object detection,semantic segmentation etc.. The multi-task paradigm not only can be efficiently customized to add new vision tasks but also reduces the computation costs which is crucial to be deployed on embedded devices. The current framework only supports 2D object detection and segmentation, keypoint estimation,3D task will be included in the future.
+The unified autonomous robotics perception framework is an anchor-free multi-task network that can jointly handle vision perception tasks such as object detection,semantic segmentation etc.. The multi-task paradigm not only can be efficiently customized to add new vision tasks but also reduces the computation costs which is crucial to be deployed on embedded devices. The current framework supports 2D object detection and segmentation, keypoint estimation,3D task will be included in the future.
 
 ### Model Architecture
 
