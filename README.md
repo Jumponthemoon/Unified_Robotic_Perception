@@ -14,29 +14,25 @@ Model parameter and inference speed
 
 ## Result **Visualization**
 
-Object detection
+Object detection    Semantic Segmentation    Keypoint Estimation
 
-Semantic Segmentation
+![image](https://github.com/Jumponthemoon/Unified_Robotic_perception/blob/main/result/det1.png)
 
-Keypoint Estimation
+![image](https://github.com/Jumponthemoon/Unified_Robotic_perception/blob/main/result/det2.png)
 
-![Untitled](Monocular%20Unified%20Autonomous%20Robotics%20Perception%20F%2037605f6c15a24d1b9f724d6676d01923/Untitled.png)
+![image](https://github.com/Jumponthemoon/Unified_Robotic_perception/blob/main/result/det3.png)
 
-![Untitled](Monocular%20Unified%20Autonomous%20Robotics%20Perception%20F%2037605f6c15a24d1b9f724d6676d01923/Untitled%201.png)
+![image](https://github.com/Jumponthemoon/Unified_Robotic_perception/blob/main/result/seg1.png)
 
-![Untitled](Monocular%20Unified%20Autonomous%20Robotics%20Perception%20F%2037605f6c15a24d1b9f724d6676d01923/Untitled%202.png)
+![image](https://github.com/Jumponthemoon/Unified_Robotic_perception/blob/main/result/seg2.png)
 
-![Untitled](Monocular%20Unified%20Autonomous%20Robotics%20Perception%20F%2037605f6c15a24d1b9f724d6676d01923/Untitled%203.png)
+![image](https://github.com/Jumponthemoon/Unified_Robotic_perception/blob/main/result/seg3.png)
 
-![Untitled](Monocular%20Unified%20Autonomous%20Robotics%20Perception%20F%2037605f6c15a24d1b9f724d6676d01923/Untitled%204.png)
+![image](https://github.com/Jumponthemoon/Unified_Robotic_perception/blob/main/result/point1.png)
 
-![Untitled](Monocular%20Unified%20Autonomous%20Robotics%20Perception%20F%2037605f6c15a24d1b9f724d6676d01923/Untitled%205.png)
+![image](https://github.com/Jumponthemoon/Unified_Robotic_perception/blob/main/result/point2.png)
 
-![Untitled](Monocular%20Unified%20Autonomous%20Robotics%20Perception%20F%2037605f6c15a24d1b9f724d6676d01923/Untitled%206.png)
-
-![Untitled](Monocular%20Unified%20Autonomous%20Robotics%20Perception%20F%2037605f6c15a24d1b9f724d6676d01923/Untitled%207.png)
-
-![Untitled](Monocular%20Unified%20Autonomous%20Robotics%20Perception%20F%2037605f6c15a24d1b9f724d6676d01923/Untitled%208.png)
+![image](https://github.com/Jumponthemoon/Unified_Robotic_perception/blob/main/result/point3.png)
 
 ## **Requirements**
 
