@@ -14,34 +14,18 @@ Model parameter and inference speed
 
 ## Result **Visualization**
 
-**Object detection**                            **Semantic Segmentation **                       **Keypoint Estimation**
+
 <div align=center>
 <img src="https://github.com/Jumponthemoon/Unified_Robotic_perception/blob/main/result/det1.png" width="300" />            <img src="https://github.com/Jumponthemoon/Unified_Robotic_perception/blob/main/result/seg1.png" width="300" />            <img src="https://github.com/Jumponthemoon/Unified_Robotic_perception/blob/main/result/point1.png" width="300" />
 </div>
 
+<div align=center>
+<img src="https://github.com/Jumponthemoon/Unified_Robotic_perception/blob/main/result/det2.png" width="300" />            <img src="https://github.com/Jumponthemoon/Unified_Robotic_perception/blob/main/result/seg2.png" width="300" />            <img src="https://github.com/Jumponthemoon/Unified_Robotic_perception/blob/main/result/point2.png" width="300" />
+</div>
 
-![image](https://github.com/Jumponthemoon/Unified_Robotic_perception/blob/main/result/point1.png)
-
-<img src="(https://github.com/Jumponthemoon/Unified_Robotic_perception/blob/main/result/det1.png)" width="200",height="100">
-
-
-![image](https://github.com/Jumponthemoon/Unified_Robotic_perception/blob/main/result/det1.png)
-
-![image](https://github.com/Jumponthemoon/Unified_Robotic_perception/blob/main/result/det2.png)
-
-![image](https://github.com/Jumponthemoon/Unified_Robotic_perception/blob/main/result/det3.png)
-
-![image](https://github.com/Jumponthemoon/Unified_Robotic_perception/blob/main/result/seg1.png)
-
-![image](https://github.com/Jumponthemoon/Unified_Robotic_perception/blob/main/result/seg2.png)
-
-![image](https://github.com/Jumponthemoon/Unified_Robotic_perception/blob/main/result/seg3.png)
-
-![image](https://github.com/Jumponthemoon/Unified_Robotic_perception/blob/main/result/point1.png)
-
-![image](https://github.com/Jumponthemoon/Unified_Robotic_perception/blob/main/result/point2.png)
-
-![image](https://github.com/Jumponthemoon/Unified_Robotic_perception/blob/main/result/point3.png)
+<div align=center>
+<img src="https://github.com/Jumponthemoon/Unified_Robotic_perception/blob/main/result/det3.png" width="300" />            <img src="https://github.com/Jumponthemoon/Unified_Robotic_perception/blob/main/result/seg3.png" width="300" />            <img src="https://github.com/Jumponthemoon/Unified_Robotic_perception/blob/main/result/point3.png" width="300" />
+</div>
 
 ## **Requirements**
 
